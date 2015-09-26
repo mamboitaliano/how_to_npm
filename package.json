@@ -1,14 +1,15 @@
 {
   "name": "@raidersofthenight/how_to_npm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Test file",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
   },
-  "author": "me",
+  "author": "Ian Harris",
   "license": "ISC",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
-  }
+  },
+  "repository": "https://github.com/raidersofthenight/how_to_npm.git"
 }
