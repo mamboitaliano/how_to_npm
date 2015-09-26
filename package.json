@@ -1,6 +1,6 @@
 {
   "name": "@raidersofthenight/how_to_npm",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Test file",
   "main": "index.js",
   "scripts": {
